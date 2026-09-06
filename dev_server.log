@@ -1,0 +1,11 @@
+
+> tmp-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 541ms
+✓ Running next.config.ts took 43ms
+
+ GET / 200 in 2.8s (next.js: 2.6s, application-code: 244ms)
